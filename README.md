@@ -10,6 +10,11 @@ Your project is to:
 1. Predict conversion rate
 2. Come up with recommendations for the product team and the marketing team to improve conversion rate
 
+### Some highlights from the project.
+
+![variable importance plot](variable_importance_plot_5_variables.png)
+![partial dependence plot for 'age'](boosted_trees-age.png)
+![partial dependence plot for 'country'](boosted_trees-country.png)
 
 # [Project 2: Employee Retention Goal](https://github.com/zhanghanduo337/Employee-Retention)
 
@@ -21,6 +26,10 @@ As said above, the goal is to predict employee retention and understand its main
 2. What are the main factors that drive employee churn? Do they make sense? Explain your findings.
 3. If you could add to this data set just one variable that could help explain employee churn, what would that be?
 
+### Some highlights from the project.
+**Tuning** random forest model. **(improve the accuracy by 4.3%)**
+
+![variable importance plot](variable_importance_plot_after_tune.png)
 
 # [Project 3: Identifying Fraudulent Activities](https://github.com/zhanghanduo337/Identifying-Fraudulent-Activities)
 
@@ -34,3 +43,9 @@ These are the tasks you are asked to do:
 4. Let's say you now have this model which can be used live to predict in real time if an activity is fraudulent or not. From a product perspective, how would you use it? That is, what kind of different user experiences would you build based on the model output?
 
 Note: comments are embedded in the code file
+
+### Some highlights from the project.
+**ROC & PR curve and AUC score to evaluate the models.**
+
+![ROC Curve](ROC_curve.png)
+![PR Curve](PR_curve.png)
