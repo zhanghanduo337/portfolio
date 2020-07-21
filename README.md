@@ -1,4 +1,4 @@
-# data-challenge-portfolio
+# Data-Challenge-Portfolio
 Data challenge project using R
 
 
