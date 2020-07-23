@@ -49,3 +49,18 @@ Note: comments are embedded in the code file
 
 ![ROC Curve](ROC_curve.png)
 ![PR Curve](PR_curve.png)
+
+
+# [Project 4: Funnel-Analysis](https://github.com/zhanghanduo337/Funnel-Analysis)
+
+
+## Challenge Description
+The company CEO isn't very happy with the volume of sales and, especially, of sales coming from new users. Therefore, she asked you to investigate whether there is something wrong in the conversion funnel or, in general, if you could suggest how conversion rate can be improved.
+Specifically, she is interested in :
+1. **A full picture of funnel conversion rate** for both desktop and mobile
+2. Some insights on **what the product team should focus on** in order to improve conversion rate as well as anything you might discover that could help improve conversion rate
+### Some highlights from the project.
+**funnel charts**
+![overall conversion](overall_funnel_plot.png)
+![Funnel chart based on device](Funnel_plot_device.png)
+
