@@ -85,7 +85,7 @@ comments are embedded in the code file
 
 
 ![click through rate pattern chart](CTR.png)
-![ROC curve of three models](ROC_curve.png)
+![ROC curve of three models](ROC_curve_email.png)
 ![prediction performance comparison](performance_comparison.png)
 ![boost_dependence](boost_dependence.png)
 
